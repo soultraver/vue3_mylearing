@@ -15,7 +15,7 @@ defineProps({
       <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
       <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
       <br />
-      你很棒!
+      你非常棒!
     </h3>
   </div>
 </template>
